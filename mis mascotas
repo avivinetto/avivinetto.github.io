@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mi Pagina</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  </head>
+  <body class="p-3">
+  <!-- v -->
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="alert alert-info">
+        <h2>Fred</h2>
+        <img class="card-img-bottom" src="img/fred.gif" alt="imagen de mi rata Fred">
+        <div class="badge badge-info">
+          <div class="card-body">
+            <p>Fred es la rata hippie de la familia.</p>
+            <p>Ama dormir la siesta y comer cereales.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="alert alert-info">
+        <h2>Colin</h2>
+        <img class="card-img-bottom" src="img/colin.gif" alt="imagen de mi rata Colin">
+        <div class="badge badge-info">
+          <div class="card-body">
+            <p>Colin es la rata escapista. </p>
+            <p>Vive pensando que el mundo se va a acabar.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
+
+  <!-- ^ -->
+  </body>
+</html>

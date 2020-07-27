@@ -6,6 +6,6 @@ a:link {color: rgb(109, 107, 107);}
 .col{background-color: #030303}
 .titulo, .titulo2 {color: white;}
 .titulo {font-family: 'Arimo', sans-serif;font-size: 6em; letter-spacing: 0.1em; line-height: 50%}
-.titulo2 {font-family: 'Arimo', sans-serif;font-size: 2em; letter-spacing: 0.1em;}
+.titulo2 {font-family: 'Arimo', sans-serif;font-size: 1em; letter-spacing: 0.1em;}
 .heading{padding: 3em;}
 .card {margin-top: 2em;}
